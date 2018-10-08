@@ -1,0 +1,74 @@
+canvas {
+	border: 1px solid black;
+	box-shadow: 3px 3px 3px gray;
+}
+
+.score1 {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 5px;
+	font-size:20px;
+	font-family:Arial;
+	text-align: left;
+}
+.title1 {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 5px;
+	font-size:20px;
+	font-family:Arial;
+	text-align: center;
+}
+.lives1 {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 5px;
+	font-size:20px;
+	font-family:Arial;
+	text-align: right;
+}
+.level1 {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 35px;
+	font-size:20px;
+	font-family:Arial;
+}
+.remaining1 {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 35px;
+	font-size:20px;
+	text-align: right;
+	font-family:Arial;
+}
+.invincibleTime {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 35px;
+	font-size:20px;
+	text-align: center;
+	font-family:Arial;
+}
+.warpTimer {
+	position: absolute;
+	width: 1280px;
+    height: 60px;
+	color: white;
+	margin-top: 700px;
+	font-size:20px;
+	text-align: left;
+	font-family:Arial;
+}
